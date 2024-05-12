@@ -7,13 +7,17 @@ Python (latest version)
 Anaconda Distribution 
 
 Step 1: Create a Conda Environment:
+
 conda create --name gest python=3.8.5
 
 Step 2: Activate the Environment:
+
 conda activate gest
 
 Step 3: Install Requirements:
+
 pip install -r requirements.txt
 
 Step 4: Run the code
+
 run Virtual_mouse.py
