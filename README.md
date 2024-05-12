@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ```
 Step 4: Run the code
 ```
-run Virtual_mouse.py
+python Virtual_mouse.py
 ```
